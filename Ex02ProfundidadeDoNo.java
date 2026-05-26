@@ -1,4 +1,4 @@
-package exercicios;
+
 
 public class Ex02ProfundidadeDoNo {
 
@@ -58,10 +58,10 @@ public class Ex02ProfundidadeDoNo {
         //raiz
         System.out.println(profundidade(raiz, 1));
 
-        //nó interno
+        //no interno
         System.out.println(profundidade(raiz, 5));
 
-        //nó inexistente
+        //no inexistente
         System.out.println(profundidade(raiz, 99));
     }
 }

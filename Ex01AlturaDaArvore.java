@@ -1,4 +1,4 @@
-package exercicios;
+
 
 public class Ex01AlturaDaArvore {
 
@@ -43,10 +43,10 @@ public class Ex01AlturaDaArvore {
         No raiz = pastasEmpresa();
 
         //arvore pequena
-        System.out.println("Altura da árvore: " + altura(raiz));
+        System.out.println("Altura da arvore: " + altura(raiz));
 
         //arvore vazia
-        System.out.println("Altura árvore vazia: " + altura(null));
+        System.out.println("Altura arvore vazia: " + altura(null));
     }  
 }
 

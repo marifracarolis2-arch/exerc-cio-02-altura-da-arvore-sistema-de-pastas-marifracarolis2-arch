@@ -1,4 +1,4 @@
-package exercicios;
+
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,8 @@ public class Ex05PreOrdem {
             this.etapa = etapa;
         }
     }
-
+    //oi
+    
     public static List<String> preOrdem(No raiz) {
 
         List<String> resultado = new ArrayList<>();
